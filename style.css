@@ -16,7 +16,7 @@ background:#232121;
     text-align: center;
     border-radius: 14em;
     box-shadow: 5px 5px 50px 50px rgb(red) (252, 5, 5, 0.699);
-    animation: animateßg 5s linear infinite;
+    animation: animateBg 5s linear infinite;
 }
 @keyframes animateBg {
     100%{
